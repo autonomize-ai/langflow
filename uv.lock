@@ -1055,7 +1055,6 @@ source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "click" },
     { name = "coverage" },
-    { name = "crosshair-tool" },
     { name = "dill" },
     { name = "gitpython" },
     { name = "humanize" },
